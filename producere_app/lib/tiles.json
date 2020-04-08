@@ -1,0 +1,23 @@
+{
+  "domingo": {
+    "id": 0
+  },
+  "segunda": {
+    "id": 1
+  },
+  "terca": {
+    "id": 2
+  },
+  "quarta": {
+    "id": 3
+  },
+  "quinta": {
+    "id": 4
+  },
+  "sexta": {
+    "id": 5
+  },
+  "sabado": {
+    "id": 6
+  }
+}
